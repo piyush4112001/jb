@@ -1,0 +1,174 @@
+.minion{
+  width: 100%;
+  border-radius: 10%;
+  padding-bottom: 1%;
+
+}
+.minion-img{
+
+
+  border-radius: 8%;
+}
+
+.pic1{
+  width: 50%;
+  border-radius: 100%;
+  padding-bottom: 3%;
+}
+.row{
+  text-align: center;
+}
+#section1{
+  padding: 5% 8%;
+}
+.box{
+  padding-left: 3%;
+  padding-right: 3%
+}
+.memory{
+
+  text-align: center;
+  padding: 1%;
+  background-color: #d54062;
+  color: white;
+}
+.jpic{
+  width: 50%;
+  border-radius: 10%;
+
+}
+#section2{
+  padding: 3% 15% 3% 15%;
+  text-align: center;
+  background-color: #ed6663;
+  border-radius: 15%;
+}
+.j{
+  color: red;
+}
+.j:hover{
+  color: #ff7171;
+}
+.u{
+  color: gold;
+}
+.u:hover{
+  color: yellow;
+}
+.h{
+  color: blue;
+}
+.h:hover{
+  color: #0f3460;
+}
+.i{
+  color: green;
+}
+.i:hover{
+  color: #91d18b;
+}
+h1{
+  font-family: 'Roboto', sans-serif;
+  font-size: 3rem;
+  font-weight: bolder;
+}
+h2{
+  font-family: 'Balsamiq Sans', cursive;
+  font-weight: bold;
+  color:#d54062;
+}
+p{
+  font-family: 'Inconsolata', monospace;
+  font-weight: normal;
+
+}
+
+
+.onceagain{
+  width: 60%;
+  text-align: center;
+  font-size: 3rem;
+  padding:10% 3% 4% 3%;
+  color: #00b7c2;
+  font-family: 'Lobster Two', cursive;
+  font-weight: bold;
+
+  border-radius: 30%;
+  position: relative;
+  left: 20%;;
+}
+
+.about{
+  text-align: center;
+  position: relative;
+
+
+  padding-bottom: 10%;
+
+}
+.remark{
+  text-align: center;
+  background-color:#d3dbff;
+
+  padding:2%;
+}
+.containor1{
+  background-color: #f4f6ff;
+  border-radius: 15%;
+  padding-top: 5%;
+}
+.card-img-top{
+
+  padding: 4%;
+}
+.card1{
+  background-color: #ffc1fa;
+}
+.card2{
+  background-color: #ffe78f;
+}
+.card3{
+  background-color: #ade498;
+}
+.card4{
+  background-color: #d3dbff;
+}
+.card5{
+  background-color: #e4f9ff;
+}
+.row2{
+  text-align: center;
+  padding-left: 8%;
+  padding-top: 3%;
+  padding-bottom: 2%;
+
+}
+
+.row3{
+  text-align: center;
+  padding-left: 20%;
+  padding-bottom: 4%;
+}
+
+.card-text{
+  font-weight: bold;
+
+}
+.raaz{
+  padding-bottom: 13%;
+}
+
+.last{
+  text-align: center;
+  padding: 10%;
+  background-color: skyblue;
+  color: white;
+}
+.alert{
+  text-align: center;
+}
+
+.buttons{
+  text-align: center;
+  padding:3%;
+}
